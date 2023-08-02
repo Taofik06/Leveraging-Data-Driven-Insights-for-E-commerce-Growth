@@ -1,6 +1,8 @@
-# Leveraging-Data-Driven-Insights-for-E-commerce-Growth
+# **Leveraging-Data-Driven-Insights-for-E-commerce-Growth**
 In the highly competitive e-commerce landscape, optimizing business performance through data-driven insights is paramount. This project takes a comprehensive approach to untangle, refine, and interpret the wealth of information available in raw company data. Using a combination of MSSQL, Python, and Power BI, I structured a robust pipeline for data cleaning, integration, and visualization, culminating in an insightful business/sales dashboard that offers performance summary and actionable insights for growth.
-Objectives:
+
+
+**Objectives**:
 
 To build a reliable and scalable data pipeline by integrating SQL, Python, and Power BI.
 
