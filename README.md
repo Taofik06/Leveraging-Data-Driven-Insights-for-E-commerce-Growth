@@ -14,3 +14,5 @@ To provide a business/sales dashboard that accurately reflects the company's per
 opportunities.
 
 To enable the company to make data-driven decisions by offering actionable insights drawn from the processed data.
+
+Here is the link to the Power BI dashboard: https://app.powerbi.com/view?r=eyJrIjoiNDFjMDFkMmMtNTJiNi00M2NlLTg0ZmYtMDNmMjI2NzZiY2I3IiwidCI6ImQwNDU3ZGRiLTJmYTUtNGM1Mi05YmUzLTJhMzIzYTAxZjRhMiJ9
